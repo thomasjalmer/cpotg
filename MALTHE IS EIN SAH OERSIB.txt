@@ -1,0 +1,2 @@
+@echo off
+msg * HEJ OMAR OG MALTHE I ER LIDT SEJE
